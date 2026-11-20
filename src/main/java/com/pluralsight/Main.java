@@ -11,6 +11,7 @@ public class Main {
         String name = scanner.nextLine();
 
         System.out.println("Hello " + name + "!");
+        System.out.println("Goodbye " + name + "!");
 
         scanner.close();
     }
